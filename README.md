@@ -49,7 +49,7 @@
 
 
 
-![MarcosSkl GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSkl&theme=radical&show_icons=true)
+![MarcosSkl GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSkL&theme=radical&show_icons=true)
 
 ![MarcosSkL](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSkL&hide=html&layout=compact&theme=radical)
 
