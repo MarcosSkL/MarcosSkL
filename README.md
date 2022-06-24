@@ -49,9 +49,9 @@
 
 
 
-![MarcosSkl GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSkL&theme=radical&show_icons=true)
+[![MarcosSkl GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSkL&theme=radical&show_icons=true)](https://github.com/MarcosSkL/github-readme-stats)
 
-![MarcosSkL](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSkL&hide=html&layout=compact&theme=radical)
+[![MarcosSkL](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSkL&hide=&layout=compact&theme=radical)](https://github.com/MarcosSkL/github-readme-stats)
 
 
 
