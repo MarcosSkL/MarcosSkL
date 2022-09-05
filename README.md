@@ -60,7 +60,7 @@
 
 ## Contact me
 
-[![Linkedin: Marcos F. Bezerra](https://img.shields.io/badge/-Marcos_F_Bezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/marcos-bezerra-skl/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/marcos-bezerra-skl/))
+[![Linkedin: Marcos F Bezerra](https://img.shields.io/badge/-Marcos_F_Bezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-bezerra-skl/)](https://www.linkedin.com/in/marcos-bezerra-skl/)
 [![Gmail Badge](https://img.shields.io/badge/-marcos.marsk@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcos.marsk@gmail.com)](mailto:marcos.marsk@gmail.com)
 [![GitHub MarcosSkL]( https://img.shields.io/github/followers/MarcosSkL?label=follow&style=social)](https://github.com/MarcosSkL)
 
