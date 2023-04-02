@@ -8,7 +8,7 @@
 
 :sunglasses: NickName: MarcosSkL
 
-:computer: I'm a Developer and student of Front-End, Back-End and Mobile!
+:computer: I'm a Developer and student of Front-End, Back-End and Mobile! Technology Lover, Always looking for Innovation for the Future.
 
 :house_with_garden: I’m from Brazil.
 
