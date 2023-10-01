@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MarcosSkL/MarcosSkL/main/LogoSkL-removebg-.png" min-width="400px" max-width="300px" width="500px" align="right" alt="Computador MarcosSkL">
+<img src="https://raw.githubusercontent.com/MarcosSkL/portifolioweb/Main/public/assets/logo2.png" min-width="400px" max-width="300px" width="500px" align="right" alt="Computador MarcosSkL">
 
 # Hi!
 
