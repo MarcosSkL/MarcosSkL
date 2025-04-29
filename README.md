@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/MarcosSkL/portifolioweb/Main/public/assets/logo2.png" min-width="400px" max-width="300px" width="500px" align="right" alt="Computador MarcosSkL">
+<picture align="right">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosSkL/portifolioweb/Main/public/logoSKLsoftware.svg" min-width="400px" max-width="300px" width="500px" align="right" alt="Logo SKL">
+  <img src="https://raw.githubusercontent.com/MarcosSkL/portifolioweb/Main/public/logoSKLsoftware_nameBlack.svg" min-width="400px" max-width="300px" width="500px" align="right" alt="Logo SKL">
+</picture>
 
 # Hi!
 
