@@ -1,6 +1,6 @@
 <picture align="right">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosSkL/portifolioweb/30d9db3dfd88aad59d2612b383b49127a2a13b30/public/logoSKLsoftware.svg?token=ATOB2QH3STGVL6GSJT5DXFDJIISSI" min-width="400px" max-width="300px" width="500px" align="right" alt="Logo SKL">
-  <img src="https://raw.githubusercontent.com/MarcosSkL/portifolioweb/30d9db3dfd88aad59d2612b383b49127a2a13b30/public/logoSKLsoftware_nameBlack.svg?token=ATOB2QGX2UCLAOAHEIOYMC3JIISSW" min-width="400px" max-width="300px" width="500px" align="right" alt="Logo SKL">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosSkL/MarcosSkL/7e77b7911c738828eed64bea8636fc0833ae91a5/logoSKLsoftware_nameWhite.svg" min-width="400px" max-width="300px" width="500px" align="right" alt="Logo SKL">
+  <img src="https://raw.githubusercontent.com/MarcosSkL/MarcosSkL/7e77b7911c738828eed64bea8636fc0833ae91a5/logoSKLsoftware_nameBlack.svg" min-width="400px" max-width="300px" width="500px" align="right" alt="Logo SKL">
 </picture>
 
 # Hi!
