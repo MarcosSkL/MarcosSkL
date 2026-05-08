@@ -17,7 +17,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2025 Goals: Create a new project and find a new job.
+:outbox_tray: 2026 Goals: Create a new project and find a new job.
 
 
  ## Skills
